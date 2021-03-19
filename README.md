@@ -1,2 +1,9 @@
 # Twitter_Streamer
-A Python project which streams live incoming twitter data in the form of JSON with a bit of ground level formatting
+A Python project which streams live incoming twitter data in the form of JSON with a bit of ground level formatting.
+
+YOU WILL NEED TO HAVE A credentials.py WITH APPLIED TWITTER DEVELOPER VARIABLE CREDENTIALS OBTAINED BY APPLYING FOR A TWITTER DEV ACCOUNT IN ORDER TO RUN THIS PROGRAM.
+NEEDED VARIABLES IN credentials.py ARE;
+ACCESS_TOKEN
+ACCESS_TOKEN_SECRET
+CONSUMER_KEY
+CONSUMER_SECRET
